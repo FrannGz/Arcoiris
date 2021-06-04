@@ -264,7 +264,7 @@ hr{
         height: 100%;
         padding: 30px;
         opacity: .9;
-        transform: translate(-400px);
+        transform: translate(-500px);
         transition: transform .5s ease-in-out;
     }
 
@@ -306,8 +306,8 @@ hr{
     }
   
     .cards-banner-one .content,
-    .cards-banner-two .contaer {
+    .cards-banner-two .content {
       width: 100%;
       padding: 60px 20px;
     }
-  }
+}
